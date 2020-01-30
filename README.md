@@ -1,6 +1,6 @@
 # Kotlin Coroutine With Flow
 
-This is a simple example of Kotlin Coroutine implementation using MVVM architecture. 
+This is a simple example of Kotlin Coroutine and Flow with ViewModel implementation using MVVM architecture. 
 
 ## What you will learn :
 1. MVVM Architecture with repository 
